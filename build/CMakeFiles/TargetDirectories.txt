@@ -1,0 +1,3 @@
+/home/dst03/Desktop/stereo_omp/build/CMakeFiles/rebuild_cache.dir
+/home/dst03/Desktop/stereo_omp/build/CMakeFiles/edit_cache.dir
+/home/dst03/Desktop/stereo_omp/build/CMakeFiles/StereoMatcher.dir
